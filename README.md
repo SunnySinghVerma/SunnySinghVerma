@@ -36,7 +36,7 @@ Professional Network
 
 <td align="center" width="180">
 <a href="https://x.com/SunnySinghVerma">
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" width="80" alt="X">
+<img src="./assets/x.svg" width="80" alt="X">
 <br><br>
 <b>X (Twitter)</b>
 <br>

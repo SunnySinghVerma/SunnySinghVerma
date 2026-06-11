@@ -103,13 +103,6 @@ India
 
 <td width="33%" valign="top">
 
-### 🚀 Current Goal
-
-* OSEP
-* OSED
-* OSWE
-* OSCE³
-
 </td>
 
 </tr>

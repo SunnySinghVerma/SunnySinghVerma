@@ -70,7 +70,7 @@ Top 50 Global
 <br><br>
 <b>Hack The Box</b>
 <br>
-Top 100 Global
+Top 100 Worldwide
 </a>
 </td>
 

@@ -20,48 +20,48 @@
 
 ---
 
-# 🌐 Connect With Me
+<h2 align="center">🌐 Connect With Me</h2>
 
-<table>
+<table align="center">
 <tr>
 
-<td align="center" width="20%">
+<td align="center" width="220">
 <a href="https://www.linkedin.com/in/sunnysinghverma/">
-<img src="https://skillicons.dev/icons?i=linkedin" width="70"/><br><br>
-<b>LinkedIn</b><br>
-<sub>Sunny Verma</sub>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="80">
+<br><br>
+<b>LinkedIn</b>
+<br>
+Professional Network
 </a>
 </td>
 
-<td align="center" width="20%">
-<a href="https://twitter.com/SunnySinghVerma">
-<img src="https://skillicons.dev/icons?i=twitter" width="70"/><br><br>
-<b>Twitter / X</b><br>
-<sub>@SunnySinghVerma</sub>
-</a>
-</td>
-
-<td align="center" width="20%">
+<td align="center" width="220">
 <a href="https://sunnysinghverma.medium.com">
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/medium.svg" width="70"/><br><br>
-<b>Medium</b><br>
-<sub>Cybersecurity Articles</sub>
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968906.png" width="80">
+<br><br>
+<b>Medium</b>
+<br>
+Cybersecurity Articles
 </a>
 </td>
 
-<td align="center" width="20%">
+<td align="center" width="220">
 <a href="https://tryhackme.com/p/SilentPivot">
-<img src="https://assets.tryhackme.com/img/favicon.png" width="70"/><br><br>
-<b>TryHackMe</b><br>
-<sub>SilentPivot</sub>
+<img src="https://assets.tryhackme.com/img/favicon.png" width="80">
+<br><br>
+<b>TryHackMe</b>
+<br>
+SilentPivot
 </a>
 </td>
 
-<td align="center" width="20%">
+<td align="center" width="220">
 <a href="https://profile.hackthebox.com/profile/019cb425-b7cc-738d-b224-08c354b714ff">
-<img src="https://www.vectorlogo.zone/logos/hackthebox/hackthebox-icon.svg" width="70"/><br><br>
-<b>Hack The Box</b><br>
-<sub>Profile</sub>
+<img src="https://www.hackthebox.com/images/landingv3/mega-menu/logo-htb.svg" width="80">
+<br><br>
+<b>Hack The Box</b>
+<br>
+CPTS • CDSA
 </a>
 </td>
 

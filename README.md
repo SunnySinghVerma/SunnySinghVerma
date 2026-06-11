@@ -195,16 +195,6 @@ India
 
 ---
 
-# 🎯 2026 Goals
-
-* [ ] Complete Offensive Security Experienced Penetration Tester (OSEP)
-* [ ] Complete Offensive Security Exploit Developer (OSED)
-* [ ] Complete Offensive Security Web Expert (OSWE)
-* [ ] Achieve Offensive Security Certified Expert 3 (OSCE³)
-* [ ] Publish Hack The Box Writeups
-* [ ] Publish TryHackMe Writeups
-* [ ] Build Open Source Security Tools
-* [ ] Create Detection Engineering Labs
 
 ---
 

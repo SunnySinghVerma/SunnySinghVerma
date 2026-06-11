@@ -1,4 +1,4 @@
-<center> # 👋 Hi, I'm Sunny Singh Verma </center>
+# <center> 👋 Hi, I'm Sunny Singh Verma </center>
 
 <div align="center">
 

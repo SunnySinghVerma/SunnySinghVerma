@@ -91,9 +91,7 @@ HTB Profile</a>
 * Penetration Tester
 * Detection Engineer
 
-### 📍 Location
 
-India
 
 </td>
 

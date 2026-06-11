@@ -60,18 +60,17 @@ Cybersecurity Articles
 <br><br>
 <b>TryHackMe</b>
 <br>
-Top 50 Global
+THM Profile
 </a>
 </td>
 
 <td align="center" width="180">
-<a href="https://app.hackthebox.com/profile/019cb425-b7cc-738d-b224-08c354b714ff">
+<a href="https://profile.hackthebox.com/profile/019cb425-b7cc-738d-b224-08c354b714ff">
 <img src="./assets/htb.svg" width="80" alt="Hack The Box">
 <br><br>
 <b>Hack The Box</b>
 <br>
-Top 100 Worldwide
-</a>
+HTB Profile</a>
 </td>
 
 </tr>

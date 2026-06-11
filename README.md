@@ -10,7 +10,7 @@
 
 🏆 **19 Professional Cybersecurity Certifications**   |  
 🎯 **Top 50 Global TryHackMe Rank**   |  
-🚩 **Hack The Box CPTS & CDSA Certified**
+🚩 **HackTheBox CPTS & CDSA Certified**
 
 <br>
 

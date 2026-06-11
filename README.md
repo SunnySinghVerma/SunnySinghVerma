@@ -1,158 +1,142 @@
-# 👋 Hi, I'm Sunny Singh Verma
+# 👋 Hi, I'm Sunny Verma
 
 <div align="center">
 
 ### 🔴 Red Team Operator | 🎯 Penetration Tester | 🛡️ Active Directory Security Specialist
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FF41&center=true&vCenter=true&width=1000&lines=OSCP%2B+%7C+CRTP+%7C+CRTE+%7C+CRTM+%7C+PNPT;HTB+CPTS+%7C+HTB+CDSA;Top+50+Global+TryHackMe+Rank;Active+Directory+Security+Specialist;Red+Team+Operations+%26+Detection+Engineering;19+Professional+Cybersecurity+Certifications" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FF41&center=true&vCenter=true&width=1000&lines=Red+Team+Operations+%26+Detection+Engineering;OSCP%2B+%7C+CRTP+%7C+CRTE+%7C+CRTM+%7C+PNPT;HTB+CPTS+%7C+HTB+CDSA;Top+50+Global+TryHackMe+Rank;19+Professional+Cybersecurity+Certifications" />
+
+<br><br>
+
+🏆 **19 Professional Cybersecurity Certifications**   |  
+🎯 **Top 50 Global TryHackMe Rank**   |  
+🚩 **Hack The Box CPTS & CDSA Certified**
 
 <br>
 
-🏆 **19 Professional Cybersecurity Certifications**
-🎯 **Top 50 Global TryHackMe Rank**
-🚩 **Hack The Box CPTS & CDSA Certified**
-🔴 **Specializing in Active Directory Security & Red Team Operations**
+**Specializing in Active Directory Security, Red Team Operations, Detection Engineering & Adversary Simulation**
 
 </div>
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
-<p align="center">
+<table>
+<tr>
 
-<a href="https://www.linkedin.com/in/sunnysinghverma/" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" width="60"/>
+<td align="center" width="20%">
+<a href="https://www.linkedin.com/in/sunnysinghverma/">
+<img src="https://skillicons.dev/icons?i=linkedin" width="70"/><br><br>
+<b>LinkedIn</b><br>
+<sub>Sunny Verma</sub>
 </a>
+</td>
 
-<a href="https://twitter.com/SunnySinghVerma" target="_blank">
-<img src="https://skillicons.dev/icons?i=twitter" width="60"/>
+<td align="center" width="20%">
+<a href="https://twitter.com/SunnySinghVerma">
+<img src="https://skillicons.dev/icons?i=twitter" width="70"/><br><br>
+<b>Twitter / X</b><br>
+<sub>@SunnySinghVerma</sub>
 </a>
+</td>
 
-<a href="https://sunnysinghverma.medium.com" target="_blank">
-<img src="https://img.icons8.com/fluency/96/medium-logo.png" width="60"/>
+<td align="center" width="20%">
+<a href="https://sunnysinghverma.medium.com">
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/medium.svg" width="70"/><br><br>
+<b>Medium</b><br>
+<sub>Cybersecurity Articles</sub>
 </a>
+</td>
 
-<a href="https://tryhackme.com/p/SilentPivot" target="_blank">
-<img src="https://assets.tryhackme.com/img/favicon.png" width="60"/>
+<td align="center" width="20%">
+<a href="https://tryhackme.com/p/SilentPivot">
+<img src="https://assets.tryhackme.com/img/favicon.png" width="70"/><br><br>
+<b>TryHackMe</b><br>
+<sub>SilentPivot</sub>
 </a>
+</td>
 
-<a href="https://profile.hackthebox.com/profile/019cb425-b7cc-738d-b224-08c354b714ff" target="_blank">
-<img src="https://img.icons8.com/color/96/hacker.png" width="60"/>
+<td align="center" width="20%">
+<a href="https://profile.hackthebox.com/profile/019cb425-b7cc-738d-b224-08c354b714ff">
+<img src="https://www.vectorlogo.zone/logos/hackthebox/hackthebox-icon.svg" width="70"/><br><br>
+<b>Hack The Box</b><br>
+<sub>Profile</sub>
 </a>
+</td>
 
-</p>
+</tr>
+</table>
 
 ---
 
-## 💻 About Me
+# 👨‍💻 About Me
 
-```yaml
-Name: Sunny Verma
+<table>
+<tr>
 
-Role:
-  - Red Team Operator
-  - Penetration Tester
-  - Detection Engineer
+<td width="33%" valign="top">
 
-Location:
-  - India
+### 🎯 Role
 
-Focus Areas:
-  - Active Directory Security
-  - Internal Network Penetration Testing
-  - Web Application Security
-  - Kerberos Attacks
-  - Adversary Simulation
-  - Detection Engineering
-  - Threat Hunting
+* Red Team Operator
+* Penetration Tester
+* Detection Engineer
 
-Current Objective:
-  - Complete the OSCE³ Path (OSEP + OSED + OSWE)
+### 📍 Location
 
-Platforms:
-  - Hack The Box
-  - TryHackMe
-  - Active Directory Labs
-```
+India
 
----
+</td>
 
-## 🏆 Certification Portfolio
+<td width="33%" valign="top">
 
-### Offensive Security
+### 🔍 Focus Areas
 
-| Certification                                        | Status |
-| ---------------------------------------------------- | ------ |
-| 🏴 Offensive Security Certified Professional (OSCP+) | ✅      |
+* Active Directory Security
+* Internal Network Pentesting
+* Kerberos Attacks
+* Web Application Security
+* Threat Hunting
 
-### Altered Security
+</td>
 
-| Certification                             | Status |
-| ----------------------------------------- | ------ |
-| ⚔️ Certified Red Team Professional (CRTP) | ✅      |
-| 🛡️ Certified Red Team Expert (CRTE)      | ✅      |
-| 🎯 Certified Red Team Master (CRTM)       | ✅      |
+<td width="33%" valign="top">
 
-### Hack The Box
+### 🚀 Current Goal
 
-| Certification                                                   | Status |
-| --------------------------------------------------------------- | ------ |
-| 🚩 Hack The Box Certified Penetration Testing Specialist (CPTS) | ✅      |
-| 🔍 Hack The Box Certified Defensive Security Analyst (CDSA)     | ✅      |
+* OSEP
+* OSED
+* OSWE
+* OSCE³
 
-### TCM Security
+</td>
 
-| Certification                                  | Status |
-| ---------------------------------------------- | ------ |
-| 🛠️ Practical Junior Penetration Tester (PJPT) | ✅      |
-| 🔴 Practical Network Penetration Tester (PNPT) | ✅      |
-
-### INE / eLearnSecurity
-
-| Certification                                                       | Status |
-| ------------------------------------------------------------------- | ------ |
-| 🌱 eLearnSecurity Junior Penetration Tester (eJPT)                  | ✅      |
-| 🧠 eLearnSecurity Certified Professional Penetration Tester (eCPPT) | ✅      |
-
-### EC-Council
-
-| Certification                                         | Status |
-| ----------------------------------------------------- | ------ |
-| 🎓 Certified Ethical Hacker (CEH)                     | ✅      |
-| 🎓 Certified Ethical Hacker Practical (CEH Practical) | ✅      |
-| 🏆 Certified Ethical Hacker Master (CEH Master)       | ✅      |
-| 🔬 Computer Hacking Forensic Investigator (CHFI)      | ✅      |
-
-### Infrastructure & Security
-
-| Certification                                     | Status |
-| ------------------------------------------------- | ------ |
-| 🐧 Red Hat Certified System Administrator (RHCSA) | ✅      |
-| 🛡️ CompTIA Security+                             | ✅      |
-| ☁️ Certified Cloud Security Associate (C3SA)      | ✅      |
-| 🔴 Certified Red Team Analyst (CRTA)              | ✅      |
-| 🚀 TryHackMe Penetration Tester Level 1 (PT1)     | ✅      |
+</tr>
+</table>
 
 ---
 
-## 📊 Certification Summary
+# 🏆 Certification Portfolio
 
-| Provider                      | Certifications |
-| ----------------------------- | -------------- |
-| Offensive Security            | 1              |
-| Altered Security              | 3              |
-| Hack The Box                  | 2              |
-| TCM Security                  | 2              |
-| INE / eLearnSecurity          | 2              |
-| EC-Council                    | 4              |
-| Red Hat                       | 1              |
-| Other Security Certifications | 4              |
-| **Total**                     | **19**         |
+| Offensive Security                                   | Altered Security                          | Hack The Box                                                    | TCM Security                                   |
+| ---------------------------------------------------- | ----------------------------------------- | --------------------------------------------------------------- | ---------------------------------------------- |
+| 🏴 Offensive Security Certified Professional (OSCP+) | ⚔️ Certified Red Team Professional (CRTP) | 🚩 Hack The Box Certified Penetration Testing Specialist (CPTS) | 🛠️ Practical Junior Penetration Tester (PJPT) |
+|                                                      | 🛡️ Certified Red Team Expert (CRTE)      | 🔍 Hack The Box Certified Defensive Security Analyst (CDSA)     | 🔴 Practical Network Penetration Tester (PNPT) |
+|                                                      | 🎯 Certified Red Team Master (CRTM)       |                                                                 |                                                |
+
+<br>
+
+| INE / eLearnSecurity                                                | EC-Council                                            | Infrastructure                                    | Additional                                    |
+| ------------------------------------------------------------------- | ----------------------------------------------------- | ------------------------------------------------- | --------------------------------------------- |
+| 🌱 eLearnSecurity Junior Penetration Tester (eJPT)                  | 🎓 Certified Ethical Hacker (CEH)                     | 🐧 Red Hat Certified System Administrator (RHCSA) | ☁️ Certified Cloud Security Associate (C3SA)  |
+| 🧠 eLearnSecurity Certified Professional Penetration Tester (eCPPT) | 🎓 Certified Ethical Hacker Practical (CEH Practical) | 🛡️ CompTIA Security+                             | 🔴 Certified Red Team Analyst (CRTA)          |
+|                                                                     | 🏆 Certified Ethical Hacker Master (CEH Master)       |                                                   | 🚀 TryHackMe Penetration Tester Level 1 (PT1) |
+|                                                                     | 🔬 Computer Hacking Forensic Investigator (CHFI)      |                                                   |                                               |
 
 ---
 
-## ⚙️ Technical Skills
+# ⚙️ Technical Skills
 
 <p align="center">
 
@@ -169,25 +153,25 @@ Platforms:
 * Linux Privilege Escalation
 * Kerberos Attacks
 * Web Application Security
-* Threat Hunting
 * Detection Engineering
+* Threat Hunting
 * Security Automation
 
 ---
 
-## 📊 GitHub Statistics
+# 📊 GitHub Statistics
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SunnySinghVerma&show_icons=true&theme=tokyonight"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=SunnySinghVerma&show_icons=true&theme=tokyonight"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SunnySinghVerma&layout=compact&theme=tokyonight"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SunnySinghVerma&layout=compact&theme=tokyonight"/>
 
 </p>
 
 ---
 
-## 🔥 GitHub Streak
+# 🔥 GitHub Streak
 
 <p align="center">
 
@@ -197,15 +181,28 @@ Platforms:
 
 ---
 
-## 🚩 Cybersecurity Platforms
+# 🚩 Cybersecurity Platforms
 
-| Platform        | Profile                                                                     |
+| Platform        | Link                                                                        |
 | --------------- | --------------------------------------------------------------------------- |
 | 🎯 TryHackMe    | https://tryhackme.com/p/SilentPivot                                         |
 | 🚩 Hack The Box | https://profile.hackthebox.com/profile/019cb425-b7cc-738d-b224-08c354b714ff |
 | 💼 LinkedIn     | https://www.linkedin.com/in/sunnysinghverma/                                |
-| 🐦 X / Twitter  | https://twitter.com/SunnySinghVerma                                         |
+| 🐦 Twitter/X    | https://twitter.com/SunnySinghVerma                                         |
 | ✍️ Medium       | https://sunnysinghverma.medium.com                                          |
+
+---
+
+# 🎯 2026 Goals
+
+* [ ] Complete Offensive Security Experienced Penetration Tester (OSEP)
+* [ ] Complete Offensive Security Exploit Developer (OSED)
+* [ ] Complete Offensive Security Web Expert (OSWE)
+* [ ] Achieve Offensive Security Certified Expert 3 (OSCE³)
+* [ ] Publish Hack The Box Writeups
+* [ ] Publish TryHackMe Writeups
+* [ ] Build Open Source Security Tools
+* [ ] Create Detection Engineering Labs
 
 ---
 

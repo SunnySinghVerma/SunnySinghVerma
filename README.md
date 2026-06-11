@@ -66,7 +66,7 @@ Top 50 Global
 
 <td align="center" width="180">
 <a href="https://app.hackthebox.com/profile/019cb425-b7cc-738d-b224-08c354b714ff">
-<img src="./assets/hackthebox-icon.svg" width="80" alt="Hack The Box">
+<img src="./assets/htb.svg" width="80" alt="Hack The Box">
 <br><br>
 <b>Hack The Box</b>
 <br>

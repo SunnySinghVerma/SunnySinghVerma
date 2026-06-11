@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Sunny Verma
+# 👋 Hi, I'm Sunny Singh Verma
 
 <div align="center">
 

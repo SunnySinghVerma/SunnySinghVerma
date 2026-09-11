@@ -55,7 +55,7 @@ Cybersecurity Articles
 </td>
 
 <td align="center" width="180">
-<a href="https://tryhackme.com/p/SilentPivot">
+<a href="https://tryhackme.com/p/SuNnY">
 <img src="https://assets.tryhackme.com/img/favicon.png" width="80" alt="TryHackMe">
 <br><br>
 <b>TryHackMe</b>

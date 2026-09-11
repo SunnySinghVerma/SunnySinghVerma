@@ -120,7 +120,7 @@ HTB Profile</a>
 
 | Offensive Security                                   | Altered Security                          | Hack The Box                                                    | TCM Security                                   |
 | ---------------------------------------------------- | ----------------------------------------- | --------------------------------------------------------------- | ---------------------------------------------- |
-| 🏴 Offensive Security Certified Professional (OSCP+) | ⚔️ Certified Red Team Professional (CRTP) | 🚩 Hack The Box Certified Penetration Testing Specialist (CPTS) | 🛠️ Practical Junior Penetration Tester (PJPT) |
+| ⚔️ Certified Red Team Professional (CRTP) | 🚩 Hack The Box Certified Penetration Testing Specialist (CPTS) | 🛠️ Practical Junior Penetration Tester (PJPT) |
 |                                                      | 🛡️ Certified Red Team Expert (CRTE)      | 🔍 Hack The Box Certified Defensive Security Analyst (CDSA)     | 🔴 Practical Network Penetration Tester (PNPT) |
 |                                                      | 🎯 Certified Red Team Master (CRTM)       |                                                                 |                                                |
 

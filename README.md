@@ -184,7 +184,7 @@ HTB Profile</a>
 
 | Platform        | Link                                                                        |
 | --------------- | --------------------------------------------------------------------------- |
-| 🎯 TryHackMe    | https://tryhackme.com/p/SilentPivot                                         |
+| 🎯 TryHackMe    | https://tryhackme.com/p/SuNnY                                               |
 | 🚩 Hack The Box | https://profile.hackthebox.com/profile/019cb425-b7cc-738d-b224-08c354b714ff |
 | 💼 LinkedIn     | https://www.linkedin.com/in/sunnysinghverma/                                |
 | 🐦 Twitter/X    | https://twitter.com/SunnySinghVerma                                         |

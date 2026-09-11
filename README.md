@@ -4,7 +4,7 @@
 
 ### 🔴 Red Team Operator | 🎯 Penetration Tester | 🛡️ Active Directory Security Specialist
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FF41&center=true&vCenter=true&width=1000&lines=Red+Team+Operations+%26+Detection+Engineering;OSCP%2B+%7C+CRTP+%7C+CRTE+%7C+CRTM+%7C+PNPT;HTB+CPTS+%7C+HTB+CDSA;Top+50+Global+TryHackMe+Rank;19+Professional+Cybersecurity+Certifications" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FF41&center=true&vCenter=true&width=1000&lines=Red+Team+Operations+%26+Detection+Engineering;CRTP+%7C+CRTE+%7C+CRTM+%7C+PNPT;HTB+CPTS+%7C+HTB+CDSA;Top+50+Global+TryHackMe+Rank;19+Professional+Cybersecurity+Certifications" />
 
 <br><br>
 
